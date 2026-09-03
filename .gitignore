@@ -1,0 +1,24 @@
+# Python / local runtime
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+.env
+*.log
+
+# Local models, adapters, checkpoints and downloaded datasets
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoints/
+runs/
+hf-cache/
+data/aihub_*/
+backend/data/aihub_*/
+backend/data/*.sqlite3
+
+# OS / editor
+.DS_Store
+.vscode/
+

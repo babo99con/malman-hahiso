@@ -1,0 +1,10 @@
+torch
+torchaudio
+transformers>=4.57,<5
+peft>=0.18,<1
+bitsandbytes>=0.48,<0.50
+accelerate>=1.12,<2
+soundfile>=0.13,<1
+scipy>=1.16,<2
+jiwer>=4,<5
+tensorboard>=2.20,<3

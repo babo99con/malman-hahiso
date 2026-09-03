@@ -1,0 +1,351 @@
+{
+  "schema_version": 2,
+  "store_name": "말만 하이소 시범 카페",
+  "currency": "KRW",
+  "menus": [
+    {
+      "id": "citron_tea",
+      "name": "유자차",
+      "aliases": [
+        "따뜻한 유자차"
+      ],
+      "category": "차",
+      "price": 4000,
+      "description": "유자 향이 나는 따뜻하고 달콤한 차",
+      "caffeine_level": "none",
+      "caffeine_note": "커피나 찻잎을 사용하지 않아 카페인이 없습니다.",
+      "taste_tags": [
+        "달콤함",
+        "새콤함",
+        "맵지 않음"
+      ],
+      "temperature_tags": [
+        "따뜻함"
+      ],
+      "texture_tags": [
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "어르신",
+        "어린이"
+      ],
+      "ingredients": [
+        "유자",
+        "설탕"
+      ],
+      "keywords": [
+        "달달한 차",
+        "따뜻한 음료",
+        "목이 불편할 때"
+      ],
+      "allowed_options": [
+        "덜 달게",
+        "연하게"
+      ],
+      "available": true
+    },
+    {
+      "id": "iced_americano",
+      "name": "아이스 아메리카노",
+      "aliases": [
+        "아아",
+        "찬 아메리카노",
+        "아이스 아메리카노"
+      ],
+      "category": "커피",
+      "price": 3500,
+      "description": "차갑고 깔끔하게 마시는 커피",
+      "caffeine_level": "regular",
+      "caffeine_note": "일반 에스프레소 샷이 들어가는 카페인 음료입니다.",
+      "taste_tags": [
+        "쓴맛",
+        "깔끔함"
+      ],
+      "temperature_tags": [
+        "차가움"
+      ],
+      "texture_tags": [
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "성인"
+      ],
+      "ingredients": [
+        "커피",
+        "물",
+        "얼음"
+      ],
+      "keywords": [
+        "시원한 커피",
+        "찬 커피"
+      ],
+      "allowed_options": [
+        "시럽 빼기",
+        "연하게",
+        "샷 추가"
+      ],
+      "available": true
+    },
+    {
+      "id": "hot_americano",
+      "name": "따뜻한 아메리카노",
+      "aliases": [
+        "뜨아",
+        "따아",
+        "뜨거운 아메리카노"
+      ],
+      "category": "커피",
+      "price": 3500,
+      "description": "따뜻하고 깔끔하게 마시는 커피",
+      "caffeine_level": "regular",
+      "caffeine_note": "일반 에스프레소 샷이 들어가는 카페인 음료입니다.",
+      "taste_tags": [
+        "쓴맛",
+        "깔끔함"
+      ],
+      "temperature_tags": [
+        "따뜻함",
+        "뜨거움"
+      ],
+      "texture_tags": [
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "성인"
+      ],
+      "ingredients": [
+        "커피",
+        "물"
+      ],
+      "keywords": [
+        "따뜻한 커피",
+        "뜨거운 커피"
+      ],
+      "allowed_options": [
+        "시럽 빼기",
+        "연하게",
+        "샷 추가"
+      ],
+      "available": true
+    },
+    {
+      "id": "cafe_latte",
+      "name": "카페라떼",
+      "aliases": [
+        "라떼",
+        "카페 라떼"
+      ],
+      "category": "커피",
+      "price": 4500,
+      "description": "우유가 들어가 부드럽고 고소한 커피",
+      "caffeine_level": "regular",
+      "caffeine_note": "일반 에스프레소 샷이 들어가는 카페인 음료입니다.",
+      "taste_tags": [
+        "고소함",
+        "부드러운 맛"
+      ],
+      "temperature_tags": [
+        "따뜻함"
+      ],
+      "texture_tags": [
+        "부드러움",
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "성인"
+      ],
+      "ingredients": [
+        "커피",
+        "우유"
+      ],
+      "keywords": [
+        "부드러운 커피",
+        "우유 커피"
+      ],
+      "allowed_options": [
+        "시럽 빼기",
+        "연하게",
+        "샷 추가"
+      ],
+      "available": true
+    },
+    {
+      "id": "decaf_iced_americano",
+      "name": "디카페인 아이스 아메리카노",
+      "aliases": [
+        "디카페인 아아",
+        "디카페인 찬 커피",
+        "디카페 아이스 아메리카노"
+      ],
+      "category": "커피",
+      "price": 4000,
+      "description": "디카페인 원두로 만든 차갑고 깔끔한 아메리카노",
+      "caffeine_level": "decaf",
+      "caffeine_note": "디카페인 원두를 사용하지만 미량의 카페인이 남아 있을 수 있습니다.",
+      "taste_tags": [
+        "쓴맛",
+        "깔끔함",
+        "덜 자극적"
+      ],
+      "temperature_tags": [
+        "차가움"
+      ],
+      "texture_tags": [
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "카페인에 민감한 분",
+        "저녁 음료"
+      ],
+      "ingredients": [
+        "디카페인 커피",
+        "물",
+        "얼음"
+      ],
+      "keywords": [
+        "디카페인",
+        "카페인 적은 커피",
+        "카페인 덜한 것",
+        "잠 걱정 적은 커피"
+      ],
+      "allowed_options": [
+        "시럽 빼기",
+        "연하게",
+        "샷 추가",
+        "얼음 빼기"
+      ],
+      "available": true
+    },
+    {
+      "id": "decaf_hot_americano",
+      "name": "디카페인 따뜻한 아메리카노",
+      "aliases": [
+        "디카페인 뜨아",
+        "디카페인 따뜻한 커피",
+        "디카페 따뜻한 아메리카노"
+      ],
+      "category": "커피",
+      "price": 4000,
+      "description": "디카페인 원두로 만든 따뜻하고 깔끔한 아메리카노",
+      "caffeine_level": "decaf",
+      "caffeine_note": "디카페인 원두를 사용하지만 미량의 카페인이 남아 있을 수 있습니다.",
+      "taste_tags": [
+        "쓴맛",
+        "깔끔함",
+        "덜 자극적"
+      ],
+      "temperature_tags": [
+        "따뜻함",
+        "뜨거움"
+      ],
+      "texture_tags": [
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "카페인에 민감한 분",
+        "저녁 음료"
+      ],
+      "ingredients": [
+        "디카페인 커피",
+        "물"
+      ],
+      "keywords": [
+        "디카페인",
+        "카페인 적은 커피",
+        "카페인 덜한 것",
+        "잠 걱정 적은 커피"
+      ],
+      "allowed_options": [
+        "시럽 빼기",
+        "연하게",
+        "샷 추가"
+      ],
+      "available": true
+    },
+    {
+      "id": "decaf_cafe_latte",
+      "name": "디카페인 카페라떼",
+      "aliases": [
+        "디카페인 라떼",
+        "디카페 라떼"
+      ],
+      "category": "커피",
+      "price": 5000,
+      "description": "디카페인 원두와 우유로 만든 따뜻하고 부드러운 라떼",
+      "caffeine_level": "decaf",
+      "caffeine_note": "디카페인 원두를 사용하지만 미량의 카페인이 남아 있을 수 있습니다.",
+      "taste_tags": [
+        "고소함",
+        "부드러운 맛",
+        "덜 자극적"
+      ],
+      "temperature_tags": [
+        "따뜻함"
+      ],
+      "texture_tags": [
+        "부드러움",
+        "마시기 편함"
+      ],
+      "audience_tags": [
+        "카페인에 민감한 분",
+        "저녁 음료"
+      ],
+      "ingredients": [
+        "디카페인 커피",
+        "우유"
+      ],
+      "keywords": [
+        "디카페인",
+        "카페인 적은 커피",
+        "우유 커피",
+        "부드러운 커피"
+      ],
+      "allowed_options": [
+        "시럽 빼기",
+        "연하게",
+        "샷 추가"
+      ],
+      "available": true
+    },
+    {
+      "id": "red_bean_shaved_ice",
+      "name": "팥빙수",
+      "aliases": [
+        "팥 빙수",
+        "단팥빙수"
+      ],
+      "category": "디저트",
+      "price": 7000,
+      "description": "팥과 얼음, 우유를 넣어 시원하고 달콤하게 먹는 빙수",
+      "caffeine_level": "none",
+      "caffeine_note": "커피나 찻잎을 사용하지 않아 카페인이 없습니다.",
+      "taste_tags": [
+        "달콤함",
+        "고소함"
+      ],
+      "temperature_tags": [
+        "차가움"
+      ],
+      "texture_tags": [
+        "씹어 먹음"
+      ],
+      "audience_tags": [
+        "성인",
+        "어린이"
+      ],
+      "ingredients": [
+        "팥",
+        "우유",
+        "얼음",
+        "설탕"
+      ],
+      "keywords": [
+        "달달한 디저트",
+        "팥 있는 메뉴",
+        "시원한 디저트"
+      ],
+      "allowed_options": [],
+      "available": true
+    }
+  ]
+}

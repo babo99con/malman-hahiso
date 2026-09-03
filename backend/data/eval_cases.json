@@ -1,0 +1,115 @@
+[
+  {
+    "id": "simple_dialect",
+    "utterance": "돼지국밥 하나 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [{"menu_id": "pork_soup", "quantity": 1, "options": []}],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "quantity_and_option",
+    "utterance": "순대국밥 두 그릇 주고 다대기는 따로 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [{"menu_id": "sundae_soup", "quantity": 2, "options": ["다대기 따로"]}],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "two_items",
+    "utterance": "섞어 하나하고 순대 하나 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {"menu_id": "mixed_soup", "quantity": 1, "options": []},
+        {"menu_id": "sundae_soup", "quantity": 1, "options": []}
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "cafe_alias",
+    "utterance": "아아 두 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [{"menu_id": "iced_americano", "quantity": 2, "options": []}],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "hot_alias",
+    "utterance": "뜨아 한 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [{"menu_id": "hot_americano", "quantity": 1, "options": []}],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "remove_green_onion",
+    "utterance": "파는 빼고 돼지국밥 두 그릇 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [{"menu_id": "pork_soup", "quantity": 2, "options": ["파 빼기"]}],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction",
+    "utterance": "돼지국밥 하나, 아니 두 개 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [{"menu_id": "pork_soup", "quantity": 2, "options": []}],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "ambiguous_category",
+    "utterance": "국밥 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "ambiguous_pronoun",
+    "utterance": "그거 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "prosody_required",
+    "utterance": "가가 가가?",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "unknown_menu",
+    "utterance": "돼지국밥 하나랑 소주 한 병 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [{"menu_id": "pork_soup", "quantity": 1, "options": []}],
+      "needs_clarification": true,
+      "unknown_terms": ["소주"]
+    }
+  },
+  {
+    "id": "not_an_order",
+    "utterance": "오늘 날씨가 와 이리 덥노",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  }
+]
+

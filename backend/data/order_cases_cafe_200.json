@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "simple-001",
+    "category": "simple",
+    "utterance": "유자차 한 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-002",
+    "category": "simple",
+    "utterance": "유자차 한 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-003",
+    "category": "simple",
+    "utterance": "유자차 한 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-004",
+    "category": "simple",
+    "utterance": "유자차 한 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-005",
+    "category": "simple",
+    "utterance": "유자차 두 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-006",
+    "category": "simple",
+    "utterance": "유자차 두 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-007",
+    "category": "simple",
+    "utterance": "유자차 두 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-008",
+    "category": "simple",
+    "utterance": "유자차 두 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-009",
+    "category": "simple",
+    "utterance": "유자차 세 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-010",
+    "category": "simple",
+    "utterance": "유자차 세 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-011",
+    "category": "simple",
+    "utterance": "유자차 세 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-012",
+    "category": "simple",
+    "utterance": "유자차 세 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-013",
+    "category": "simple",
+    "utterance": "유자차 네 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-014",
+    "category": "simple",
+    "utterance": "유자차 네 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-015",
+    "category": "simple",
+    "utterance": "유자차 네 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-016",
+    "category": "simple",
+    "utterance": "유자차 네 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-017",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 한 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-018",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 한 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-019",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 한 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-020",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 한 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-021",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 두 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-022",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 두 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-023",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 두 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-024",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 두 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-025",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 세 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-026",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 세 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-027",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 세 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-028",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 세 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-029",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 네 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-030",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 네 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-031",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 네 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-032",
+    "category": "simple",
+    "utterance": "따뜻한 유자차 네 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 4,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-033",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 한 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-034",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 한 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-035",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 한 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-036",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 한 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-037",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 두 잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-038",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 두 잔 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-039",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 두 잔 주서요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "simple-040",
+    "category": "simple",
+    "utterance": "아이스 아메리카노 두 잔 주소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-041",
+    "category": "option",
+    "utterance": "유자차 1잔 덜 달게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": [
+            "덜 달게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-042",
+    "category": "option",
+    "utterance": "유자차 1잔 너무 달지 않게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": [
+            "덜 달게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-043",
+    "category": "option",
+    "utterance": "유자차 2잔 덜 달게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": [
+            "덜 달게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-044",
+    "category": "option",
+    "utterance": "유자차 2잔 너무 달지 않게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": [
+            "덜 달게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-045",
+    "category": "option",
+    "utterance": "유자차 3잔 덜 달게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": [
+            "덜 달게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-046",
+    "category": "option",
+    "utterance": "유자차 3잔 너무 달지 않게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": [
+            "덜 달게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-047",
+    "category": "option",
+    "utterance": "유자차 1잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-048",
+    "category": "option",
+    "utterance": "유자차 1잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-049",
+    "category": "option",
+    "utterance": "유자차 2잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-050",
+    "category": "option",
+    "utterance": "유자차 2잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-051",
+    "category": "option",
+    "utterance": "유자차 3잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-052",
+    "category": "option",
+    "utterance": "유자차 3잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-053",
+    "category": "option",
+    "utterance": "아이스 아메리카노 1잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-054",
+    "category": "option",
+    "utterance": "아이스 아메리카노 1잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-055",
+    "category": "option",
+    "utterance": "아이스 아메리카노 2잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-056",
+    "category": "option",
+    "utterance": "아이스 아메리카노 2잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-057",
+    "category": "option",
+    "utterance": "아이스 아메리카노 3잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-058",
+    "category": "option",
+    "utterance": "아이스 아메리카노 3잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-059",
+    "category": "option",
+    "utterance": "아이스 아메리카노 1잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-060",
+    "category": "option",
+    "utterance": "아이스 아메리카노 1잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-061",
+    "category": "option",
+    "utterance": "아이스 아메리카노 2잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-062",
+    "category": "option",
+    "utterance": "아이스 아메리카노 2잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-063",
+    "category": "option",
+    "utterance": "아이스 아메리카노 3잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-064",
+    "category": "option",
+    "utterance": "아이스 아메리카노 3잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-065",
+    "category": "option",
+    "utterance": "아이스 아메리카노 1잔 샷 하나 추가해 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-066",
+    "category": "option",
+    "utterance": "아이스 아메리카노 1잔 샷 더 넣어 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-067",
+    "category": "option",
+    "utterance": "아이스 아메리카노 2잔 샷 하나 추가해 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-068",
+    "category": "option",
+    "utterance": "아이스 아메리카노 2잔 샷 더 넣어 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-069",
+    "category": "option",
+    "utterance": "아이스 아메리카노 3잔 샷 하나 추가해 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-070",
+    "category": "option",
+    "utterance": "아이스 아메리카노 3잔 샷 더 넣어 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-071",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 1잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-072",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 1잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-073",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 2잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-074",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 2잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-075",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 3잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-076",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 3잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-077",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 1잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-078",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 1잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-079",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 2잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-080",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 2잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-081",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 3잔 연하게 해주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-082",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 3잔 좀 연하게 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": [
+            "연하게"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-083",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 1잔 샷 하나 추가해 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-084",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 1잔 샷 더 넣어 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-085",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 2잔 샷 하나 추가해 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-086",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 2잔 샷 더 넣어 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-087",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 3잔 샷 하나 추가해 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-088",
+    "category": "option",
+    "utterance": "따뜻한 아메리카노 3잔 샷 더 넣어 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": [
+            "샷 추가"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-089",
+    "category": "option",
+    "utterance": "카페라떼 1잔 시럽 없이 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "option-090",
+    "category": "option",
+    "utterance": "카페라떼 1잔 시럽은 빼고 주세요",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": [
+            "시럽 빼기"
+          ]
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-091",
+    "category": "multiple",
+    "utterance": "유자차 1잔하고 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-092",
+    "category": "multiple",
+    "utterance": "유자차 1잔하고 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-093",
+    "category": "multiple",
+    "utterance": "유자차 1잔하고 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-094",
+    "category": "multiple",
+    "utterance": "유자차 1잔하고 디카페인 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-095",
+    "category": "multiple",
+    "utterance": "유자차 1잔하고 디카페인 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-096",
+    "category": "multiple",
+    "utterance": "유자차 1잔하고 디카페인 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-097",
+    "category": "multiple",
+    "utterance": "아이스 아메리카노 2잔하고 유자차 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-098",
+    "category": "multiple",
+    "utterance": "아이스 아메리카노 2잔하고 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-099",
+    "category": "multiple",
+    "utterance": "아이스 아메리카노 2잔하고 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-100",
+    "category": "multiple",
+    "utterance": "아이스 아메리카노 2잔하고 디카페인 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-101",
+    "category": "multiple",
+    "utterance": "아이스 아메리카노 2잔하고 디카페인 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-102",
+    "category": "multiple",
+    "utterance": "아이스 아메리카노 2잔하고 디카페인 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-103",
+    "category": "multiple",
+    "utterance": "따뜻한 아메리카노 1잔하고 유자차 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-104",
+    "category": "multiple",
+    "utterance": "따뜻한 아메리카노 1잔하고 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-105",
+    "category": "multiple",
+    "utterance": "따뜻한 아메리카노 1잔하고 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-106",
+    "category": "multiple",
+    "utterance": "따뜻한 아메리카노 1잔하고 디카페인 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-107",
+    "category": "multiple",
+    "utterance": "따뜻한 아메리카노 1잔하고 디카페인 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-108",
+    "category": "multiple",
+    "utterance": "따뜻한 아메리카노 1잔하고 디카페인 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-109",
+    "category": "multiple",
+    "utterance": "카페라떼 2잔하고 유자차 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-110",
+    "category": "multiple",
+    "utterance": "카페라떼 2잔하고 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-111",
+    "category": "multiple",
+    "utterance": "카페라떼 2잔하고 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-112",
+    "category": "multiple",
+    "utterance": "카페라떼 2잔하고 디카페인 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-113",
+    "category": "multiple",
+    "utterance": "카페라떼 2잔하고 디카페인 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-114",
+    "category": "multiple",
+    "utterance": "카페라떼 2잔하고 디카페인 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-115",
+    "category": "multiple",
+    "utterance": "디카페인 아이스 아메리카노 1잔하고 유자차 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-116",
+    "category": "multiple",
+    "utterance": "디카페인 아이스 아메리카노 1잔하고 아이스 아메리카노 2잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-117",
+    "category": "multiple",
+    "utterance": "디카페인 아이스 아메리카노 1잔하고 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-118",
+    "category": "multiple",
+    "utterance": "디카페인 아이스 아메리카노 1잔하고 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-119",
+    "category": "multiple",
+    "utterance": "디카페인 아이스 아메리카노 1잔하고 디카페인 따뜻한 아메리카노 3잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "multiple-120",
+    "category": "multiple",
+    "utterance": "디카페인 아이스 아메리카노 1잔하고 디카페인 카페라떼 1잔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        },
+        {
+          "menu_id": "decaf_cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-121",
+    "category": "correction",
+    "utterance": "유자차 1잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-122",
+    "category": "correction",
+    "utterance": "유자차 2잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-123",
+    "category": "correction",
+    "utterance": "유자차 2잔, 아니 3잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-124",
+    "category": "correction",
+    "utterance": "유자차 3잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-125",
+    "category": "correction",
+    "utterance": "유자차 3잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "citron_tea",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-126",
+    "category": "correction",
+    "utterance": "아이스 아메리카노 1잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-127",
+    "category": "correction",
+    "utterance": "아이스 아메리카노 2잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-128",
+    "category": "correction",
+    "utterance": "아이스 아메리카노 2잔, 아니 3잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-129",
+    "category": "correction",
+    "utterance": "아이스 아메리카노 3잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-130",
+    "category": "correction",
+    "utterance": "아이스 아메리카노 3잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-131",
+    "category": "correction",
+    "utterance": "따뜻한 아메리카노 1잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-132",
+    "category": "correction",
+    "utterance": "따뜻한 아메리카노 2잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-133",
+    "category": "correction",
+    "utterance": "따뜻한 아메리카노 2잔, 아니 3잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-134",
+    "category": "correction",
+    "utterance": "따뜻한 아메리카노 3잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-135",
+    "category": "correction",
+    "utterance": "따뜻한 아메리카노 3잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "hot_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-136",
+    "category": "correction",
+    "utterance": "카페라떼 1잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-137",
+    "category": "correction",
+    "utterance": "카페라떼 2잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-138",
+    "category": "correction",
+    "utterance": "카페라떼 2잔, 아니 3잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-139",
+    "category": "correction",
+    "utterance": "카페라떼 3잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-140",
+    "category": "correction",
+    "utterance": "카페라떼 3잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "cafe_latte",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-141",
+    "category": "correction",
+    "utterance": "디카페인 아이스 아메리카노 1잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-142",
+    "category": "correction",
+    "utterance": "디카페인 아이스 아메리카노 2잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-143",
+    "category": "correction",
+    "utterance": "디카페인 아이스 아메리카노 2잔, 아니 3잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 3,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-144",
+    "category": "correction",
+    "utterance": "디카페인 아이스 아메리카노 3잔, 아니 2잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 2,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "correction-145",
+    "category": "correction",
+    "utterance": "디카페인 아이스 아메리카노 3잔, 아니 1잔으로 바꿔 주이소",
+    "expected": {
+      "intent": "order",
+      "items": [
+        {
+          "menu_id": "decaf_iced_americano",
+          "quantity": 1,
+          "options": []
+        }
+      ],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "clarification-146",
+    "category": "clarification",
+    "utterance": "커피 한 잔 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-147",
+    "category": "clarification",
+    "utterance": "그거 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-148",
+    "category": "clarification",
+    "utterance": "저거 두 잔 주소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-149",
+    "category": "clarification",
+    "utterance": "아무거나 하나 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-150",
+    "category": "clarification",
+    "utterance": "음료 하나 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-151",
+    "category": "clarification",
+    "utterance": "뜨거운 거 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-152",
+    "category": "clarification",
+    "utterance": "차가운 거 두 잔 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-153",
+    "category": "clarification",
+    "utterance": "따뜻한 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-154",
+    "category": "clarification",
+    "utterance": "달달한 거 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-155",
+    "category": "clarification",
+    "utterance": "안 단 걸로 하나 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-156",
+    "category": "clarification",
+    "utterance": "카페인 없는 거 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-157",
+    "category": "clarification",
+    "utterance": "부드러운 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-158",
+    "category": "clarification",
+    "utterance": "아까 먹던 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-159",
+    "category": "clarification",
+    "utterance": "평소에 먹는 걸로 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-160",
+    "category": "clarification",
+    "utterance": "가가 가가?",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-161",
+    "category": "clarification",
+    "utterance": "싼 걸로 두 잔 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-162",
+    "category": "clarification",
+    "utterance": "애들이 먹을 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-163",
+    "category": "clarification",
+    "utterance": "내가 좋아하는 거 알제",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-164",
+    "category": "clarification",
+    "utterance": "여기 대표 메뉴 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-165",
+    "category": "clarification",
+    "utterance": "어제 주문한 거 그대로 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-166",
+    "category": "clarification",
+    "utterance": "커피 말고 다른 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-167",
+    "category": "clarification",
+    "utterance": "큰 걸로 하나 주이소",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-168",
+    "category": "clarification",
+    "utterance": "저번에 맛있던 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-169",
+    "category": "clarification",
+    "utterance": "어르신이 먹기 좋은 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-170",
+    "category": "clarification",
+    "utterance": "둘 중에 맛있는 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-171",
+    "category": "clarification",
+    "utterance": "메뉴판 첫 번째 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-172",
+    "category": "clarification",
+    "utterance": "아들이 먹던 커피 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-173",
+    "category": "clarification",
+    "utterance": "커피 두 잔 아니 그거 말고",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-174",
+    "category": "clarification",
+    "utterance": "적당히 알아서 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-175",
+    "category": "clarification",
+    "utterance": "덜 쓴 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-176",
+    "category": "clarification",
+    "utterance": "잠 안 오는 거 말고 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-177",
+    "category": "clarification",
+    "utterance": "목 편한 거 하나 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-178",
+    "category": "clarification",
+    "utterance": "우유 든 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-179",
+    "category": "clarification",
+    "utterance": "시원하고 달달한 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "clarification-180",
+    "category": "clarification",
+    "utterance": "따뜻하고 카페인 없는 거 주세요",
+    "expected": {
+      "intent": "clarification",
+      "items": [],
+      "needs_clarification": true
+    }
+  },
+  {
+    "id": "non_order-181",
+    "category": "non_order",
+    "utterance": "오늘 날씨 좋네예",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-182",
+    "category": "non_order",
+    "utterance": "저는 목 안 마릅니다",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-183",
+    "category": "non_order",
+    "utterance": "그냥 구경만 할게요",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-184",
+    "category": "non_order",
+    "utterance": "주문 안 할랍니다",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-185",
+    "category": "non_order",
+    "utterance": "물은 괜찮습니다",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-186",
+    "category": "non_order",
+    "utterance": "지금은 안 마실게요",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-187",
+    "category": "non_order",
+    "utterance": "다음에 다시 올게예",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-188",
+    "category": "non_order",
+    "utterance": "여기 몇 시까지 합니꺼",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-189",
+    "category": "non_order",
+    "utterance": "화장실이 어데예",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-190",
+    "category": "non_order",
+    "utterance": "사장님 계십니꺼",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-191",
+    "category": "non_order",
+    "utterance": "사람이 참 많네예",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-192",
+    "category": "non_order",
+    "utterance": "메뉴판만 좀 볼게요",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-193",
+    "category": "non_order",
+    "utterance": "친구 기다리는 중입니다",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-194",
+    "category": "non_order",
+    "utterance": "포장은 안 할게요",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-195",
+    "category": "non_order",
+    "utterance": "아까 계산했습니다",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-196",
+    "category": "non_order",
+    "utterance": "자리 있습니꺼",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-197",
+    "category": "non_order",
+    "utterance": "오늘 쉬는 날인 줄 알았네",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-198",
+    "category": "non_order",
+    "utterance": "사진 찍어도 됩니꺼",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-199",
+    "category": "non_order",
+    "utterance": "카드 결제 됩니꺼",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  },
+  {
+    "id": "non_order-200",
+    "category": "non_order",
+    "utterance": "전화 받고 다시 올게요",
+    "expected": {
+      "intent": "non_order",
+      "items": [],
+      "needs_clarification": false
+    }
+  }
+]
